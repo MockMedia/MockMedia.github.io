@@ -1,1 +1,1 @@
-# .GitHub.io
+# mockmedia.github.io
