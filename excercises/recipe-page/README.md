@@ -1,2 +1,0 @@
-# 66th Street Studio 
-
