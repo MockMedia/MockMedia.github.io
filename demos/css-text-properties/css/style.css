@@ -1,0 +1,22 @@
+h1 {
+    color: rgb(206, 0, 86);
+    background-color: rgb(214, 247, 172);
+    text-align: center;
+}
+span {
+    font-style: italic
+
+}
+#sp1 {
+    font-weight: bolder;
+}
+h3 {
+    font-size: 20px;
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    color: limegreen;
+    font-weight: 600;
+}
+
