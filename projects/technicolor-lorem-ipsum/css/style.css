@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 25px;
+    background-color: #ff8200;
+    color: #7d1ece; 
+}
+#paragraph-1 {
+  color: navy;
+  background-color: lightyellow;
+}
+#span-1 {
+  color: white;
+  background-color: crimson;
+}
+#span-2 {
+  color: black;
+  background-color: gold;
+}
+#paragraph-2 {
+  color: darkgreen;
+  background-color: honeydew;
+}
+#span-3 {
+  color: white;
+  background-color: teal;
+}
+#paragraph-3 {
+  color: maroon;
+  background-color: lavenderblush;
+}
+#span-4 {
+  color: yellow;
+  background-color: purple;
+}
