@@ -1,0 +1,50 @@
+.color-palettes {
+    padding: 24px;
+    margin: 24px;
+    text-align: center;
+    box-shadow: 6px 6px 12px #989898;
+}
+.color {
+    margin: 0px;
+    padding: 24px;
+}
+#c1a {background-color: #b7c2a9;
+}
+#c1b {background-color: #c19a6b;
+}
+#c1c {background-color: #4a5d45;
+}
+#c1d {background-color: #c8735a;
+}
+#c1e {background-color: #c9a09a;
+}
+
+.color {
+    margin: 0px;
+    padding: 24px;
+}
+#c2a {background-color: #92cad3;
+}
+#c2b {background-color: #83b2bc;
+}
+#c2c {background-color: #76a3a8;
+}
+#c2d {background-color: #5a8a95;
+}
+#c2e {background-color: #456c75;
+}
+.color {
+    margin: 0px;
+    padding: 24px;
+}
+#c3a {background-color: #ff1493;
+    
+}
+#c3b {background-color: #92fe14;
+}
+#c3c {background-color: #1492fe;
+}
+#c3d {background-color: #f514fe;
+}
+#c3e {background-color: #edf025;
+}
