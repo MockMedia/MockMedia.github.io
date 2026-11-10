@@ -1,0 +1,33 @@
+.post-it {
+    font-family: Impact;
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    margin: 24px;
+    padding: 24px;
+    vertical-align: top;
+}
+
+.pink{
+    background-color: pink;
+}
+
+.blue{
+    background-color: lightblue;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.purple{
+    background-color: purple;
+}
+
+.green{
+    background-color: green;
+}
+
+.teal{
+    background-color: teal;
+}
