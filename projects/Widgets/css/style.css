@@ -1,0 +1,29 @@
+#weather {
+    background-color: teal;
+    display: inline-block;
+    border-radius: 60px;
+    color: aliceblue;
+    padding: 25px 60px;
+    margin: 30px;
+}
+#icon {
+    width: 50px;
+}
+p {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0;
+    text-align: center;
+}
+
+#temp {
+    font-size: 24px;
+}
+#time {
+    margin-left: 45px;
+    margin-right: 45px;
+}
+
+#date-location {
+    
+}
