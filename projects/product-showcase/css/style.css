@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+body {
+    background-color: #F7F3EC;
+    font-family: Lato, sans-serif;
+}
+
+main {
+    width: 100%;
+}
+
+.container {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.dog-section {
+    background-color: #E9DDCC;
+    padding: 30px;
+}
+
+.cat-section {
+    background-color: #DCE2D5;
+    padding: 30px;
+}
+
+.comfort-section {
+    background-color: #E8DCD2;
+    padding: 30px;
+}
+
+img {
+    width: 100%;
+}
+
+h1 {
+    color: #51483F;
+    text-align: center;
+    font-family: 'Playfair Display', serif; 
+}
+
+h2 {
+    color: #51483F;
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+p {
+    color: #51483F;
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+a {
+    background-color: #51483F;
+    color: #FFFFFF;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 8px;
+    display: inline-block;
+}
+a:hover {
+    background-color: #78836B;
+}
+
+footer {
+    background-color: #51483F;
+    padding: 20px;
+}
+
+footer p {
+    color: #FFFFFF;
+    text-align: center;
+}
