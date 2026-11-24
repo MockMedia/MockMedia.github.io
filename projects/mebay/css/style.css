@@ -87,25 +87,35 @@ header p {
     text-decoration: none;
     border-radius: 5px;
     font-weight: bold;
-    transition: box-shadow 0.3s ease;
 }
 
-.buy-button {
+#product-info-column .buy-button {
     background-color: #A52A2A;
-    color: #ffffff;
+    color: white;
 }
 
-.cart-button {
+#product-info-column .buy-button:hover {
+    color: white;
+    box-shadow: 0 0 12px #A52A2A;
+}
+
+#product-info-column .cart-button {
     background-color: #285943;
-    color: #ffffff;
+    color: white;
 }
 
-.wishlist-button {
+#product-info-column .cart-button:hover {
+    color: white;
+    box-shadow: 0 0 12px #285943;
+}
+
+#product-info-column .wishlist-button {
     background-color: #D6AD45;
     color: #222222;
     border: 1px solid #C49A35;
 }
 
-.wishlist-button:hover {
+#product-info-column .wishlist-button:hover {
+    color: #222222;
     box-shadow: 0 0 12px #D6AD45;
 }
